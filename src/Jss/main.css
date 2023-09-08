@@ -1,0 +1,8 @@
+html {
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px;
+    font-size: 1.4em;
+    font-weight: bold;
+    letter-spacing: .5px;
+}
